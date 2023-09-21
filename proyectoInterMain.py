@@ -1,6 +1,6 @@
 import readchar
 
-#Parte 1|
+#Parte 1
 nombre = input ("Ingresa tu Nombre: ")
 print ("Bienvenido,", nombre)
 
